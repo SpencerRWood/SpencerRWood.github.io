@@ -1,0 +1,176 @@
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin:  0;
+    background: #ccc;
+    color: #000;
+    padding:  0;
+}
+
+/* Author Styles */
+
+html {
+	
+	background-image: url(img/Rocks-2.jpg); 
+	background-attachment: fixed;
+       background-position: center; 
+	  background-repeat: no-repeat;
+    -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	height: 0;
+	
+}
+
+header {
+	margin: 1.5% 0 0 1%;
+	padding: 0;
+	
+}
+
+header .brand {
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
+	font-size: 40px;
+	margin: 0;
+	padding: .5% 1% .5% 1%;
+	border-style: solid;
+	border-width: 2%;
+}
+
+#main {
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	    font-size: 17px;
+	    line-height: 23px;
+	    margin: 20% auto 0 auto;
+		padding: 0 0 0 0;
+	
+	width: 40%;
+	
+	
+}
+
+#main h1 {
+	
+	text-align: center;
+    font-family: 'Montserrat', sans-serif;
+	letter-spacing: 8px;
+	color: #2c3e50;
+    font-weight: normal;
+    text-transform: uppercase;
+    line-height: 46px;
+    font-size: 43px;
+    margin: 0 0 0 0;
+	padding: 5% 0 5% 0;
+	
+}
+
+
+#container {
+	width: 30%;
+	background-color: #2c3e50;
+	margin: 20% auto 0 auto;
+	padding: 1% 0 1% 0;
+}
+
+#nav {
+	margin: 0 auto 0 auto;
+	padding: 0;
+}
+
+#nav ul {
+	text-align: center;
+	align: center;
+	font-family: 'Cantarell', sans-serif;
+	color: #FFFFFF;
+	    
+	    font-size: 20px;
+	    line-height: 23px;
+	    /*text-transform: uppercase;*/
+	    letter-spacing: 3px;
+		margin: 0;
+		padding: 0;
+	    
+		
+}
+
+#nav ul li {
+	text-align: center;
+	color: #FFFFFF;
+	list-style-type: none;
+	display: inline;
+	padding: 0;
+	
+}
+
+#nav ul a {
+	
+	text-decoration: none;
+	color: #FFFFFF;
+	padding: 0;
+}
+
+footer {
+	display: block;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 0;
+	margin: 0;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
