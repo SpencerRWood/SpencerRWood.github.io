@@ -87,7 +87,7 @@ header .brand {
 	    margin: 20% auto 0 auto;
 		padding: 0 0 0 0;
 	
-	width: 40%;
+	width: 45%;
 	
 	
 }
@@ -96,7 +96,7 @@ header .brand {
 	
 	text-align: center;
     font-family: 'Montserrat', sans-serif;
-	letter-spacing: 8px;
+	letter-spacing: 10px;
 	color: #2c3e50;
     font-weight: normal;
     text-transform: uppercase;
@@ -109,39 +109,48 @@ header .brand {
 
 
 #container {
-	/*background-color: #2c3e50;*/
 	width: 40%;
+	background-color: #2c3e50;
+	margin: 10% auto 0 auto;
+	padding: 0;
+	background: rgb(204, 204, 204); 
+	background: rgba(0, 0, 0, 0.5);
 }
 
 #nav {
-	padding: 0;
+	margin: 0 auto 5% auto;
+	padding: 5% 0 5% 0;
 }
 
 #nav ul {
 	text-align: center;
-	align: center;
 	font-family: 'Playfair Display SC', serif;
+	color: #FFFFFF;
 	    font-size: 20px;
 	    line-height: 23px;
 	    letter-spacing: 3px;
 		margin: 0;
 		padding: 0;
 		
+		
 }
 
 #nav ul li {
 	text-align: center;
-	color: #2c3e50;
 	list-style-type: none;
-	display: inline;
+	display: inline-block;
 	padding: 0;
 	
 }
 
 #nav ul a {
-	
 	text-decoration: none;
-	padding: 0;
+	color: #FFFFFF;	
+}
+
+#nav ul a:hover{
+	color: rgb(204, 204, 204); 
+	color: rgba(0, 0, 0, 0.5);
 }
 
 footer {
@@ -151,7 +160,7 @@ footer {
 	bottom: 0;
 	left: 0;
 	padding: 0;
-	
+	margin: 0 auto 0 auto;
 	
 }
 
