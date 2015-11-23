@@ -84,7 +84,7 @@ header .brand {
 	color: #FFFFFF;
 	    font-size: 17px;
 	    line-height: 23px;
-	    margin: 20% auto 0 auto;
+	    margin: 15% auto 0 auto;
 		padding: 0 0 0 0;
 	
 	
@@ -107,17 +107,19 @@ header .brand {
 
 
 #container {
-	width: 40%;
-	background-color: #2c3e50;
+	
+	width: 100%;
 	margin: 10% auto 0 auto;
 	padding: 0;
-	background: rgb(204, 204, 204); 
-	background: rgba(0, 0, 0, 0.5);
+	
 }
 
 #nav {
+	width: 40%;
 	margin: 0 auto 5% auto;
-	padding: 5% 0 5% 0;
+	padding: 2% 0 2% 0;
+	background: rgb(204, 204, 204); 
+	background: rgba(0, 0, 0, 0.5);
 }
 
 #nav ul {
