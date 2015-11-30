@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home Grown Ohio Innovator
+title: Home Grown Ohio Innovation
 permalink: /about/
 ---
 
