@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+### Contact me
+
 <form id="contactform" method="POST">
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email">
@@ -19,12 +21,3 @@ permalink: /contact/
     contactform.setAttribute('action', '//formspree.io/' + 'Spencer.R.Wood' + '@' + 'gmail' + '.' + 'com');
 </script>
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
