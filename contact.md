@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Contact
+title: Contact me!
 permalink: /contact/
 ---
 
-### Contact me
 
-Please feel free to fill out the text boxes below if you have any questions or comments for me! 
+Fill out the text boxes below if you would like to get in touch with me or if you have any questions! I will get back to you as soon as I can! 
 
 <form id="contactform" method="POST">
     <input type="text" name="name" placeholder="Your name">
