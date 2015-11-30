@@ -8,9 +8,10 @@ permalink: /contact/
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email">
 	<input type="hidden" name="_subject" value="Website contact" />
-	<br>
+	<br> <br>
     <textarea name="message" placeholder="Your message"></textarea>
 	<input type="text" name="_gotcha" style="display:none" />
+	<br>
     <input type="submit" value="Send">
 </form>
 <script>
