@@ -12,5 +12,5 @@ Hello! First and foremost, thank you for checking out my website! I am a recent 
  
  If you are interested in getting to know me better, please feel free to check out some of my social media channels below!
 
- {% include svg-icons.html %}
+
 
