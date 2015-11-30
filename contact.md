@@ -4,6 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
+<form action="//formspree.io/Spencer.R.Wood@gmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
+
 Some information about you!
 
 ### More Information
