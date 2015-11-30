@@ -6,6 +6,8 @@ permalink: /contact/
 
 ### Contact me
 
+Please feel free to fill out the text boxes below if you have any questions or comments for me! 
+
 <form id="contactform" method="POST">
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email">
