@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 
+title: Home Grown Ohio Innovator
 permalink: /about/
 ---
 
-## Home Grown Ohio Innovator
 
 Hello! First and foremost, thank you for checking out my website! I am a recent Miami University (of Ohio) graduate with a BS in Marketing and and a BA in Interactive Media Studies. During college, I was able to explore some of my passions for innovation, technology, and digital marketing by spending a semester living and working in downtown San Francisco - pretty cool for an Ohio native, right?
 
