@@ -15,6 +15,7 @@ permalink: /contact/
 	<input type="text" name="_gotcha" style="display:none" />
 	<br>
     <input type="submit" value="Send">
+	<input type="hidden" name="_next" value="//www.spence.io/thanks" />
 </form>
 <script>
     var contactform =  document.getElementById('contactform');
