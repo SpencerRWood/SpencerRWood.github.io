@@ -14,7 +14,7 @@ permalink: /contact/
 </form>
 <script>
     var contactform =  document.getElementById('contactform');
-    contactform.setAttribute('action', '//formspree.io/' + 'your' + '@' + 'email' + '.' + 'com');
+    contactform.setAttribute('action', '//formspree.io/' + 'Spencer.R.Wood' + '@' + 'gmail' + '.' + 'com');
 </script>
 
 Some information about you!
