@@ -3,17 +3,41 @@ layout: post
 title: Hello World!
 ---
 
-My name is Spencer and this is my blog. While studying/interning in San Francisco, I discovered the importance of having a place on the Internet that you can call your own.  
+Hello! My name is Spencer Wood and my overall goal for this website is to provide information for the non-technical marketer explained in non-technical terms and how these tools and applications can be used in a very real way. While in undergrad my background included two degrees, one in Marketing and the other in Interactive Media Studies. My Marketing degree allowed me to have exposure to traditional marketing principles including consumer behavior, market research, sales, and various others in creativity and problem solving skills. This, as a standalone major, has numerous applications in itself, but, with the disruption that has been casued by the Internet the field of marketing is continually transitioning to a profession focused on merging technical skill with tradional marketing practices. This is where my classes involving digital anayltics, social media marketing, web developement and design, various introductions to programming, and usability have complimented my traditional marketing curriculum and provided a skillset to allow me to confidently enter the fast paced and involving marketing industry. 
 
-![SpenceIO]({{ site.baseurl }}/images/SpenceIO.png)
+For my first post, I will explain how I developed this website and provide resources for you to be able to create your own. First of all, this website was created with [Jekyll](https://jekyllrb.com/) hosted through [Github](https://github.com/) and is considered a [static webpage](https://en.wikipedia.org/wiki/Static_web_page) which means that you don't have to mess with a database programming language such as PHP. Other advantages of hosting your website on Github with Jekyll Now includes:
 
-I set out with the goal of carving out my own space to showcase work and, more importantly, who I am as a person without the use of content management system (CMS). This is due to two incredibly profound reasons: 
+	*Fast, responsive, and overall light design.
+	*Total customizability versus other taditional content management systems such as Wordpress.
+	*Easily integrate analytics and comments via plugins.
+	*Add your own custom domain.
+	*And most importanly, completely free to use with a Github account!
 
-1. I have always had a passion for building things myself. 
-2. As a college student, I am incredibly cheap and don’t want to pay for hosting.
+##Setting Up Your Personalized Website
 
-Essentially, this is a personal experiment in digital self-sufficiency. 
+When setting up your website, I do not recommend following the guide put out by the original Jekyll creators, as this requires an intimate knowledge of your system's terminal program, which can over complicate the process and discourage users. So if you have not already done so, you'll have to create a Github account, afterwards read and follow [Smashing Magazine's guide](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/#1-fork-a-starting-point) for forking and setting up your website through [Jekyll Now](http://www.jekyllnow.com/about/) written by Barry Clark who created this streamlined work around to using terminal. 
 
-As of right now, this blog will be a combination of my life experiences, various topics involving the technology industry and marketing, and my ever growing list of activities that I enjoy. This will be a tentative list, and will be subject to change in the future as I figure things out.
+##Creating a Landing Page
 
-If you are interested in seeing more from me, my twitter and instagram are @SpencerRWood.
+Now that you have your site up and running, you might want to create a landing page that users access before your blog. Any HTML file that you create and drop into your Github repository with the designation of index.html will automatically be the first page users go to when they type in your website URL. This will require some working knowledge of both HTML and CSS, and while not necessary, will add a more personalized touch to your website and give you the future opportunity to conduct A/B testing to improve conversion rates of goals. Before we get to ahead of ourselves, if you aren't familiar with HTML or CSS there are tons of great courses from [Codecademy](www.codecademy.com) that will help you understand this fairly simple mark up language.
+
+##Understanding Google Anayltics
+
+Within Smashing Magazine's guide there was a step that showed you how to easily integrate [Google Analytics](www.google.com/analytics) tracking to your website. For data-driven marketers, this is a crucial step. This will allow you to understand user traffic and behavior within your website along with demographic information, whether conversion goals are being met, and among various other statistical information important for making informed decisions about your site. For example, if you are experiencing a high bounce rate, the percentage of users who only click one page on your site, then you may want to adjust your landing page or content to better match user expectations of your website. There are hundreds of practical applications that can be syntehsized through analytical data such as this, I recommend becoming Google Analytics IQ certified, you can read up more on the processs [here](https://support.google.com/partners/answer/6089738?hl=en).
+
+
+
+
+
+
+http://webdesign.tutsplus.com/tutorials/quick-tip-add-a-formspree-form-to-your-static-sites--cms-23870
+
+http://sebastien.saunier.me/blog/2014/04/15/you-do-not-need-a-database-for-your-contact-form.html
+
+http://joshualande.com/jekyll-github-pages-poole/
+
+https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md
+
+http://jekyllrb.com/docs/plugins/#converters-1
+
+https://github.com/takuti/jekyll-lazy-tweet-embedding
