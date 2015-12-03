@@ -7,11 +7,11 @@ Hello! My name is Spencer Wood and my overall goal for this website is to provid
 
 For my first post, I will explain how I developed this website and provide resources for you to be able to create your own. First of all, this website was created with [Jekyll](https://jekyllrb.com/) hosted through [Github](https://github.com/) and is considered a [static webpage](https://en.wikipedia.org/wiki/Static_web_page) which means that you don't have to mess with a database programming language such as PHP. Other advantages of hosting your website on Github with Jekyll Now includes:
 
-*Fast, responsive, and overall light design.
-*Total customizability versus other taditional content management systems such as Wordpress.
-*Easily integrate analytics and comments via plugins.
-*Add your own custom domain.
-*And most importanly, completely free to use with a Github account!
+-Fast, responsive, and overall light design.
+-Total customizability versus other taditional content management systems such as Wordpress.
+-Easily integrate analytics and comments via plugins.
+-Add your own custom domain.
+-And most importanly, completely free to use with a Github account!
 
 ##Setting Up Your Personalized Website
 
