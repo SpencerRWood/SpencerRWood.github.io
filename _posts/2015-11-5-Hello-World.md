@@ -8,10 +8,10 @@ Hello! My name is Spencer Wood and my overall goal for this website is to provid
 For my first post, I will explain how I developed this website and provide resources for you to be able to create your own. First of all, this website was created with [Jekyll](https://jekyllrb.com/) hosted through [Github](https://github.com/) and is considered a [static webpage](https://en.wikipedia.org/wiki/Static_web_page) which means that you don't have to mess with a database programming language such as PHP. Other advantages of hosting your website on Github with Jekyll Now includes:
 
 - Fast, responsive, and overall light design.
-- Total customizability versus other taditional content management systems such as Wordpress.
+- Total customizability versus other traditional content management systems such as Wordpress.
 - Easily integrate analytics and comments via plugins.
 - Add your own custom domain.
-- And most importanly, completely free to use with a Github account!
+- And most importantly, completely free to use with a Github account!
 
 ##Setting Up Your Personalized Website
 
@@ -23,7 +23,7 @@ Now that you have your site up and running, you might want to create a landing p
 
 If you feel comfortable with your HTML and CSS skills, I recommend checking out [Usability Hour's guide](http://usabilityhour.com/landing-page-design/) to developing a landing page for the purpose of increasing conversion rates. This will also be a great introduction for good website design practices you'll be able to implement on your website.
 
-##Understanding Google Anayltics
+##Understanding Google Analytics
 
 Within Smashing Magazine's guide there was a step that showed you how to easily integrate [Google Analytics](http://www.google.com/analytics) tracking to your website. For data-driven marketers, this is a crucial step. This will allow you to understand user traffic and behavior within your website along with demographic information, whether conversion goals are being met, and among various other statistical information important for making informed decisions about your site. For example, if you are experiencing a high bounce rate, the percentage of users who only click one page on your site, than you may want to adjust your landing page or content to better match user expectations of your website. There are hundreds of practical applications that can be syntehsized through analytical data such as this, I recommend becoming Google Analytics IQ certified, you can read up more on the processs [here](https://support.google.com/partners/answer/6089738?hl=en).
 
