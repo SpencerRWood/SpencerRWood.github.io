@@ -8,8 +8,9 @@ permalink: /contact/
 Fill out the text boxes below if you would like to get in touch with me or if you have any questions! I will get back to you as soon as I can! 
 
 <form id="contactform" method="POST">
-    <input type="text" name="name" placeholder="Your name">
-    <input type="email" name="_replyto" placeholder="Your email">
+    <input type="text" name="name" placeholder="Your name" style="width:300px;">
+	<br> <br>
+    <input type="email" name="_replyto" placeholder="Your email" style="width:300px;">
 	<input type="hidden" name="_subject" value="Website contact" />
 	<br> <br>
     <textarea style="width:300px; height:150px;" name="message" placeholder="Your message"></textarea>
