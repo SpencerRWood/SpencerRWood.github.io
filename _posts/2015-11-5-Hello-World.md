@@ -37,7 +37,7 @@ One of the advantages of designing a traditional dynamic blog website with a dat
 
 ##Formatting your Blog Posts
 
-When wiritng blog posts you may be unfamilliar with how Jekyll processes information in your markdown blog posts. Here is a [guide from Barry Clark] that gives an easy introduction of how to properly format your posts so they are ready for the web.
+When wiritng blog posts you may be unfamilliar with how Jekyll processes information in your markdown blog posts. This guide from [Barry Clark](http://www.jekyllnow.com/Markdown-Style-Guide/) gives an easy introduction of how to properly format your posts so they are ready for the web.
 
 ##Conclusion
 
