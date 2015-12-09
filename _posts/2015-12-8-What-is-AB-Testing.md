@@ -5,8 +5,8 @@ title: A/B Testing Explained
 
 As people, we A/B test every day whether we realize it or not. For example, let’s say there’s a new coffee shop around the corner that you’re excited to try. One morning, you decide to grab a cup of coffee and, in your excitement, you take a large drink. The coffee proves to be very hot and you end up burning your tongue in the process. As a result, you’ve learned that in the future you should either:
 
-+A: Take smaller sips.
-+B: Wait for your coffee to cool down before drinking.
+- A: Take smaller sips.
+- B: Wait for your coffee to cool down before drinking.
 
 The next day, after your tongue has healed, you go back to the same coffee shop to test your hypotheses. You start with your first test and attempt to take a smaller drink, but find out the coffee is still too hot to drink. This leads to your conclusion that it is better to wait for the coffee to cool down to a comfortable temperature before taking your first drink. 
 
