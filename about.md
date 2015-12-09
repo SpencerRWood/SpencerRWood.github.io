@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home Grown Ohio Innovation
+title: About Me
 permalink: /about/
 ---
 
