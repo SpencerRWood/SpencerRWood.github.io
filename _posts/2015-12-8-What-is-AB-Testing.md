@@ -2,10 +2,6 @@
 layout: post
 title: A/B Testing Explained
 ---
-
-![Picture of a laptop with a notebook and pen]({{ site.baseurl }}/images/startup.jpg "Laptop with pen and paper")
-
-
 As people, we A/B test every day whether we realize it or not. For example, let’s say there’s a new coffee shop around the corner that you’re excited to try. One morning, you decide to grab a cup of coffee and, in your excitement, you take a large drink. The coffee proves to be very hot and you end up burning your tongue in the process. As a result, you’ve learned that in the future you should either:
 
 - A: Take smaller sips.
