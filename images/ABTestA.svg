@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="600px" viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#F5F6F7" stroke="#606161" stroke-width="0.6" stroke-miterlimit="10" d="M797.35,57.396
+			c0-7.704-8.379-13.949-18.719-13.949H21.723c-10.34,0-18.722,6.245-18.722,13.949v36.323H797.35V57.396z"/>
+		<path fill="#F5F6F7" stroke="#606161" stroke-width="0.6" stroke-miterlimit="10" d="M3.001,93.719v448.885
+			c0,7.703,8.382,13.949,18.722,13.949h756.908c10.34,0,18.719-6.246,18.719-13.949V93.719H3.001z"/>
+	</g>
+	<circle fill="#51B74B" cx="33.255" cy="67.716" r="12.134"/>
+	<circle fill="#FCBB3E" cx="63.591" cy="67.716" r="12.135"/>
+	<circle fill="#F0605E" cx="93.926" cy="67.716" r="12.135"/>
+</g>
+<path opacity="0.25" fill="#4EB96F" d="M733.261,497.084c0,9.867-8.382,17.867-18.722,17.867H450.144
+	c-10.34,0-18.723-8-18.723-17.867V279.73c0-9.867,8.383-17.866,18.723-17.866h264.396c10.34,0,18.722,7.999,18.722,17.866V497.084z"
+	/>
+<g>
+	<rect x="67.785" y="109.318" opacity="0.25" fill="#2880B9" width="664.781" height="72.806"/>
+	<g>
+		<rect x="111.556" y="265.332" opacity="0.5" fill="#BCC2C6" width="292.832" height="24.268"/>
+		<rect x="73.536" y="302.312" opacity="0.5" fill="#BCC2C6" width="330.874" height="24.268"/>
+		<rect x="73.536" y="339.295" opacity="0.5" fill="#BCC2C6" width="330.874" height="24.264"/>
+		<rect x="73.536" y="376.273" opacity="0.5" fill="#BCC2C6" width="330.874" height="24.268"/>
+		<rect x="73.536" y="413.252" opacity="0.5" fill="#BCC2C6" width="330.874" height="24.271"/>
+		<rect x="73.536" y="450.234" opacity="0.5" fill="#BCC2C6" width="330.874" height="24.268"/>
+		<rect x="73.536" y="487.217" opacity="0.5" fill="#BCC2C6" width="330.874" height="24.266"/>
+	</g>
+	<rect x="67.785" y="199.458" opacity="0.25" fill="#35495E" width="664.781" height="45.071"/>
+	<rect x="365.127" y="119.141" fill="none" width="69.338" height="55.182"/>
+	<text transform="matrix(1 0 0 1 380.6621 160.4995)" fill="#606161" font-family="'SourceSerifPro-Semibold'" font-size="57.2045">A</text>
+	<rect x="365.125" y="199.459" fill="none" width="69.34" height="55.182"/>
+	<text transform="matrix(1 0 0 1 381.4902 240.8179)" fill="#606161" font-family="'SourceSerifPro-Semibold'" font-size="57.2045">B</text>
+	<rect x="203.926" y="360.816" fill="none" width="69.338" height="55.184"/>
+	<text transform="matrix(1 0 0 1 219.0317 405.9355)" fill="#606161" font-family="'SourceSerifPro-Semibold'" font-size="62.405">C</text>
+	<rect x="548.117" y="360.816" fill="none" width="69.34" height="55.184"/>
+	<text transform="matrix(1 0 0 1 560.7285 405.9355)" fill="#606161" font-family="'SourceSerifPro-Semibold'" font-size="62.405">D</text>
+</g>
+</svg>
