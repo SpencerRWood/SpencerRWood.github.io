@@ -41,4 +41,4 @@ While changing the layout is only one example of creating two variables for test
 
 ##Real World Examples
 
-A majority of major internet properties and eCommerce stores are currently conducting A/B testing. Due to these changes being so incrementally small, users typically don’t notice on a conscious level. If you are interested in seeing A/B testing in action check out [isponioge.com](http://www.ispionage.com/landing-page-gallery/) where you can search different companies and compare how different their landing pages have evolved over time to accomadate different testing. 
+A majority of major internet properties and eCommerce stores are currently conducting A/B testing. Due to these changes being so incrementally small, users typically don’t notice on a conscious level. If you are interested in seeing A/B testing in action check out [ispionage.com](http://www.ispionage.com/landing-page-gallery/) where you can search different companies and compare how different their landing pages have evolved over time to accommodate different testing. 
