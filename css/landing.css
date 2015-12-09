@@ -147,8 +147,8 @@ header .brand {
 }
 
 #nav ul a:hover{
-	color: #C03C28;
-}
+	color: rgb(204, 204, 204);
+}   
 
 footer {
 	display: block;
